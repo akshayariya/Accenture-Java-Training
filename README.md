@@ -1,2 +1,3 @@
 # Java-Practice-Questions
-This repository is for the practice of java 
+This repository is for the practice of java practice questions.
+
