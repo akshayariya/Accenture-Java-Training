@@ -1,3 +1,4 @@
+package arrayPack;
 public class BinarySearch {
     public static void main(String[] args) {
         // Sorted array (for binary search, array must be sorted)
